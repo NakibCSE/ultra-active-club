@@ -1,0 +1,123 @@
+[
+    {
+      "id": "627133749d4d176327300676",
+      "time": 30,
+      "age": "20-30",
+      "picture": "https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Push Up",
+      "gender": "female",
+      "company": "NEWCUBE",
+      "email": "margieclements@newcube.com",
+      "phone": "+1 (807) 460-2925"
+    },
+    {
+      "id": "62713374b0fd087d6facab69",
+      "time": 20,
+      "age": "30-35",
+      "picture": "https://images.pexels.com/photos/136404/pexels-photo-136404.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Single-leg deadlifts",
+      "gender": "female",
+      "company": "ANIVET",
+      "email": "lynnehartman@anivet.com",
+      "phone": "+1 (895) 414-3281"
+    },
+    {
+      "id": "62713374e48ccac122886fbf",
+      "time": 50,
+      "age": "25-30",
+      "picture": "https://images.pexels.com/photos/3253501/pexels-photo-3253501.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Side planks",
+      "gender": "female",
+      "company": "HANDSHAKE",
+      "email": "amyarnold@handshake.com",
+      "phone": "+1 (931) 517-2157"
+    },
+    {
+      "id": "627133743605fb295cd03dca",
+      "time": 35,
+      "age": "10-20",
+      "picture": "https://images.pexels.com/photos/812746/pexels-photo-812746.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Dumbbell rows",
+      "gender": "male",
+      "company": "GLOBOIL",
+      "email": "maynarddalton@globoil.com",
+      "phone": "+1 (967) 516-2667"
+    },
+    {
+      "id": "627133742b29d270b87775da",
+      "time": 55,
+      "age": "20-30",
+      "picture": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Mercado Lloyd",
+      "gender": "male",
+      "company": "HOTCAKES",
+      "email": "mercadolloyd@hotcakes.com",
+      "phone": "+1 (996) 552-2065"
+    },
+    {
+      "id": "62713374510a2ab145bda85d",
+      "time": 60,
+      "age": "30-40",
+      "picture": "https://images.pexels.com/photos/317157/pexels-photo-317157.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Kramer Meyers",
+      "gender": "male",
+      "company": "CORPULSE",
+      "email": "kramermeyers@corpulse.com",
+      "phone": "+1 (824) 472-3399"
+    },
+    {
+      "id": "627133748621ee77a1f9e185",
+      "time": 65,
+      "age": "20-40",
+      "picture": "https://images.pexels.com/photos/2261477/pexels-photo-2261477.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Side squats",
+      "gender": "female",
+      "company": "INQUALA",
+      "email": "saundrasaunders@inquala.com",
+      "phone": "+1 (817) 492-3384"
+    },
+    {
+      "id": "62713374aa80a56c02953b54",
+      "time": 70,
+      "age": "45-50",
+      "picture": "https://images.pexels.com/photos/421160/pexels-photo-421160.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Single-leg bridge",
+      "gender": "male",
+      "company": "MARVANE",
+      "email": "lucasfitzgerald@marvane.com",
+      "phone": "+1 (803) 558-2027"
+    },
+    {
+      "id": "62713374e8a22645c5543f38",
+      "time": 75,
+      "age": "20-30",
+      "picture": "https://images.pexels.com/photos/260409/pexels-photo-260409.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Plié leg lift",
+      "gender": "female",
+      "company": "DIGIGENE",
+      "email": "abigailrosales@digigene.com",
+      "phone": "+1 (835) 517-3422"
+    },
+    {
+      "id": "62713374a266de93c94a7557",
+      "time": 80,
+      "age": "20-30",
+      "picture": "https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Jenkins Shaffer",
+      "gender": "male",
+      "company": "TOYLETRY",
+      "email": "jenkinsshaffer@toyletry.com",
+      "phone": "+1 (973) 558-3028"
+    },
+    {
+      "id": "62713374952331bdc1b5602e",
+      "time": 90,
+      "age": "20-50",
+      "picture": "https://images.pexels.com/photos/116078/pexels-photo-116078.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Standing overhead dumbbell presses",
+      "gender": "male",
+      "company": "ZOXY",
+      "email": "savagestout@zoxy.com",
+      "phone": "+1 (883) 479-3679"
+    }  
+  ]

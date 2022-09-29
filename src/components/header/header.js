@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from "../../asset/logo.jfif"
-const header = () => {
+import logo from "../../asset/logo.jfif";
+import "./Header.css"
+const Header = () => {
     return (
         <div className="nav-container">
           <nav className="navbar navbar-light bg-light">
@@ -15,4 +16,4 @@ const header = () => {
       );
 };
 
-export default header;
+export default Header;
