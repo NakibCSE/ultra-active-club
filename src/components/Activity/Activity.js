@@ -18,3 +18,4 @@ const Activity = ({ activity, addActivity }) => {
 };
 
 export default Activity;
+

@@ -7,8 +7,8 @@ const Profile = () => {
       <img src={profile} alt="" />
       <div className="profile-info">
         <p>I'm a learner</p>
-        <p>Contact: 016203393</p>
-        <p>Email : thohidCse7890@gmail.com</p>
+        <p>Contact: 01828955753</p>
+        <p>Email : nakkibcse@gmail.com</p>
         <p>Department of CSE</p>
       </div>
     </div>
