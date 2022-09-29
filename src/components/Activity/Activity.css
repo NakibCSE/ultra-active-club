@@ -1,0 +1,52 @@
+.activity {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    position: relative;
+}
+
+.activity img {
+    padding: 10px;
+    height: 266px;
+    width: 100%;
+}
+
+.activity-container {
+    margin: 0 20px;
+}
+
+.activity-info {
+    padding-left: 20px;
+    margin-bottom: 70px;
+
+}
+
+.activity-info h3 {
+    margin-top: 0%;
+    margin-bottom: 5px;
+}
+
+
+.activity button {
+    width: 96%;
+    margin-left: 2%;
+    background-color: #0a5308;
+    border: none;
+    padding: 10px 0;
+    bottom: 0;
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.activity button:hover {
+    background-color: #f05630;
+}
+
+@media screen and (max-width: 550px) {
+    .activity img {
+        height: 170px;
+    }
+}
